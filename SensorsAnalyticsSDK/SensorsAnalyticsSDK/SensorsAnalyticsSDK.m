@@ -60,8 +60,8 @@ NSString* const SCREEN_REFERRER_URL_PROPERTY = @"$referrer";
 NSString* const APP_PUSH_ID_PROPERTY_BAIDU = @"$app_push_id_baidu";
 NSString* const APP_PUSH_ID_PROPERTY_JIGUANG = @"$app_push_id_jiguang";
 NSString* const APP_PUSH_ID_PROPERTY_QQ = @"$app_push_id_qq";
-NSString* const APP_PUSH_ID_PROPERTY_GETUI = @"$app_push_id_xiaomi";
-NSString* const APP_PUSH_ID_PROPERTY_XIAOMI = @"$app_push_id_getui";
+NSString* const APP_PUSH_ID_PROPERTY_GETUI = @"$app_push_id_getui";
+NSString* const APP_PUSH_ID_PROPERTY_XIAOMI = @"$app_push_id_xiaomi";
 
 @implementation SensorsAnalyticsDebugException
 
